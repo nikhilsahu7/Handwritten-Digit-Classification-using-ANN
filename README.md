@@ -4,3 +4,15 @@ This project demonstrates how to build a Handwritten Digit Classification model 
 ### In this project, we use the MNIST dataset, which contains 28x28 pixel images of handwritten digits, to build and train a neural network. The task is to classify the digits correctly using a multi-class classification approach. The model is implemented using Keras, TensorFlow, and Python.
 
 ### (Multiclass classification using ANN)(deep learning)
+
+
+
+
+
+
+
+
+
+
+
+pip install -r requirements.txt
