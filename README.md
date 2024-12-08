@@ -15,4 +15,4 @@ This project demonstrates how to build a Handwritten Digit Classification model 
 
 
 
-pip install -r requirements.txt
+(pip install -r requirements.txt)
